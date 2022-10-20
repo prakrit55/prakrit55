@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/prakritimandal5" target="blank"><img src="https://img.shields.io/twitter/follow/prakritimandal5?logo=twitter&style=for-the-badge" alt="prakritimandal5" /></a> </p>
 
-- 🌱 I’m currently learning **Python, OpenCV**
+- 🌱 I’m currently learning **CSS,
 
 - 💬 Ask me about **Backend, Node.JS**
 
