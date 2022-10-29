@@ -15,6 +15,8 @@
 
 - ⚡ Fun fact **I love anime**
 
+-  🤗 [![@prakrit55's Holopin board](https://holopin.me/prakrit55)](https://holopin.io/@prakrit55)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/prakritimandal5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prakritimandal5" height="30" width="40" /></a>
