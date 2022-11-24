@@ -20,8 +20,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/prakritimandal5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prakritimandal5" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mwlite/in/prakriti-mandal-030239239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/mwlite/in/prakriti-mandal-030239239" height="30" width="40" /></a>
-<a href="https://instagram.com/prakriti02__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="
+<a href="https://www.linkedin.com/in/prakriti-mandal-030239239/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/mwlite/in/prakriti-mandal-030239239" height="30" width="40" /></a>
+<a href="https://www.instagram.com/prakriti.geek/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="
 prakriti.geek" height="30" width="40" /></a>
 </p>
 
