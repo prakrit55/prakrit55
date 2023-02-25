@@ -24,6 +24,7 @@ I'm fascinated by building and in contributing in opensource projects. I believe
 src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" title="ansible" width="40" height="40"/> <img
 src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" title="jenkins" width="40" height="40"/>  <img
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker" title="docker" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" title="kubernetes" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/github/explore/85cceaeeaf993ca35664dc37ea24f9237fbbfc14/topics/nginx/nginx.png" alt="nginx" title="nginx" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="promethues" title="promethues" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" title="grafana" width="40" height="40"/>
+<a href="https://keptn.sh" target="_blank" rel="noreferrer"><img src="https://cncf-branding.netlify.app/img/projects/keptn/icon/color/keptn-icon-color.png" width="36" height="36" alt="Keptn" /></a>
 </p>
 
 ### Socials
