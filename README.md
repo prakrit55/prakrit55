@@ -8,7 +8,7 @@ I'm fascinated by building and in contributing in opensource projects. I believe
 
 * 🌍  I'm based in West Bengal,India
 * ✉️  You can contact me at [prakritimandal611@gmail.com](mailto:prakritimandal611@gmail.com)
-* 🧠  I'm learning Observability
+* 🧠  I'm learning Cloud and Golang
 * ⚡  I'm greatly into anime
 
 ### Skills
