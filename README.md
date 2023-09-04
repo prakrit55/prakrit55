@@ -6,7 +6,7 @@ A Devops Enthusiast
 
 I'm fascinated by building and in contributing in opensource projects. I believe that good changes are compulsory and can only bring by opinions and contributions.
 
-* 🌍  I'm based in West Bengal,India
+* 🌍  I'm from Bharat (India)
 * ✉️  You can contact me at [prakritimandal611@gmail.com](mailto:prakritimandal611@gmail.com)
 * 🧠  I'm learning Cloud and Golang
 * ⚡  I'm greatly into anime
