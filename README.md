@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Prakriti Mandal
+Hi ! My name is Prakriti Mandal<img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" alt="Comet" width="120"/>
 =======================================================================================================================================
 
 A Devops Enthusiast
