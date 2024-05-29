@@ -32,13 +32,14 @@ I'm fascinated by building and in contributing in opensource projects. I believe
 
 ### Blog Section
 <p align="left">
-<a href="https://medium.com/@prakritimandal611/go-ing-with-grpc-3f40dcc844d3" title="Demystifying Grpc"><img src="https://miro.medium.com/v2/resize:fit:786/format:webp/1*uDqI494K-T1GCAJO3LjToA.png" alt="Demystifying Grpc" width="250px" align="left"/></a>
-<a href="https://medium.com/@prakritimandal611/go-ing-with-grpc-3f40dcc844d3" title="Demystifying Grpc"><strong>Demystifying Grpc</strong></a>
-<br/>The gRPC is a high-performance, open source feature-rich RPC framework used to communicate in distributed systems like microservices and in systems written in different programming languages with great ease. </p> <br><br/>
+<a href="https://medium.com/@prakritimandal611/unveiling-roles-in-k8s-with-aws-e97824f3a49d" title="Unveiling Roles in K8s with AWS"><img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*kOV0brwEm2ps5n1sh0LzSg.jpeg" alt="Unveiling Roles in K8s with AWS" width="250px" align="left"/></a>
+<a href="https://medium.com/@prakritimandal611/unveiling-roles-in-k8s-with-aws-e97824f3a49d" title="Unveiling Roles in K8s with AWS"><strong>Unveiling Roles in K8s with AWS</strong></a>
+<br/>A Kubernetes cluster in production may contain several workloads for different uses to a wholesome application. These workloads need propitious security to keep every uncongenial fist away. </p> <br><br/>
 <p align="left">
-<a href="https://medium.com/@prakritimandal611/terraform-for-aws-4cb2cf4d60cc" title="Aws with Terraform"><img src="https://miro.medium.com/v2/resize:fit:786/format:webp/1*q956Ph7m16vQibUkyDhBLQ.jpeg" alt="Aws with Terraform" width="250px" align="left"/></a>
-<a href="https://medium.com/@prakritimandal611/terraform-for-aws-4cb2cf4d60cc" title="Aws with Terraform"><strong>Aws with Terraform</strong></a>
-<br/>An innovative tool to optimize the utilization of several services on various platforms like azure, aws, gcp, has enriched the power of automation to create a cost-effective, high-performance and ... </p> <br><br/>
+<a href="https://medium.com/@prakritimandal611/terraform-for-aws-4cb2cf4d60cc" title="Secure Your K8s deployed Application Credentials Through AWS Secret Manager
+"><img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*egfe4X3Pr7BQjjq8OVkhvg.png" alt="Secure Your K8s deployed Application Credentials Through AWS Secret Manager" width="250px" align="left"/></a>
+<a href="https://medium.com/@prakritimandal611/terraform-for-aws-4cb2cf4d60cc" title=""><strong>Secure Your K8s deployed Application Credentials Through AWS Secret Manager</strong></a>
+<br/>Credentials for the applications deployed in a Kubernetes cluster can’t be presented directly into the yaml files openly. These resources are required to authenticate the services or resources like database, APIs or other services. These credentials may include passwords, usernames, URIs to be used by the applications to communicate to other applications ... </p> <br><br/>
 
 
   
