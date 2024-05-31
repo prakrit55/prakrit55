@@ -1,16 +1,11 @@
 Hi ! I am Prakriti Mandal
-<img align="right" alt="Love Coding" width="400" src="https://media.tenor.com/acoHkVJ0xCQAAAAS/thanks-a-lot-naruto-shippuden.gif">
 =======================================================================================================================================
 
 A Devops Enthusiast
 -------------------
 
 I'm fascinated by building and in contributing in opensource projects. I believe that good changes are compulsory and can only bring by opinions and contributions.
-
-* 🌍  I'm from Bharat (India)
-* ✉️  You can contact me at [prakritimandal611@gmail.com](mailto:prakritimandal611@gmail.com)
-* 🧠  I'm learning Cloud and Golang
-* ⚡  I'm greatly into anime
+<img align="right" alt="Love Coding" width="400" src="https://media.tenor.com/acoHkVJ0xCQAAAAS/thanks-a-lot-naruto-shippuden.gif">
 
 ### Skills
 
