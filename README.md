@@ -5,10 +5,9 @@ A Devops Enthusiast
 -------------------
 
 I'm fascinated by building and in contributing in opensource projects. I believe that good changes are compulsory and can only bring by opinions and contributions.
-<img align="right" alt="Love Coding" width="400" src="https://media.tenor.com/acoHkVJ0xCQAAAAS/thanks-a-lot-naruto-shippuden.gif">
 
 ### Skills
-
+<img align="right" alt="Love Coding" width="400" src="https://media.tenor.com/acoHkVJ0xCQAAAAS/thanks-a-lot-naruto-shippuden.gif">
 <p align="left">
 <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
