@@ -1,4 +1,5 @@
-Hi ! My name is Prakriti Mandal<img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" alt="Comet" width="120"/>
+Hi ! I am Prakriti Mandal
+<img align="right" alt="Love Coding" width="400" src="https://media.tenor.com/acoHkVJ0xCQAAAAS/thanks-a-lot-naruto-shippuden.gif">
 =======================================================================================================================================
 
 A Devops Enthusiast
