@@ -33,7 +33,7 @@ I'm fascinated by building and in contributing in opensource projects. I believe
 <p align="left">
 <a href="https://medium.com/@prakritimandal611/terraform-for-aws-4cb2cf4d60cc" title="Secure Your K8s deployed Application Credentials Through AWS Secret Manager
 "><img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*egfe4X3Pr7BQjjq8OVkhvg.png" alt="Secure Your K8s deployed Application Credentials Through AWS Secret Manager" width="250px" align="left"/></a>
-<a href="https://medium.com/@prakritimandal611/terraform-for-aws-4cb2cf4d60cc" title=""><strong>Secure Your K8s deployed Application Credentials Through AWS Secret Manager</strong></a>
+<a href="https://medium.com/@prakritimandal611/secure-your-k8s-deployed-application-credentials-through-aws-secret-manager-09632fb3a265" title=""><strong>Secure Your K8s deployed Application Credentials Through AWS Secret Manager</strong></a>
 <br/>Credentials for the applications deployed in a Kubernetes cluster can’t be presented directly into the yaml files openly. These resources are required to authenticate the services or resources like database, APIs or other services. These credentials may include passwords, usernames, URIs to be used by the applications to communicate to other applications ... </p> <br><br/>
 
 
