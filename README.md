@@ -1,7 +1,7 @@
 ### Introduction
-🌱 I am a DevOps Engineer 
-🌱 I love working in technologies like aws, kubernetes, docker, terraform, python
-🌱 I am exploring different cloud technologies
+*  I am a DevOps Engineer 
+*  I love working in technologies like aws, kubernetes, docker, terraform, python
+*  I am exploring different cloud technologies
 
 ### Socials
 
