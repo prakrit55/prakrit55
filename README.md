@@ -3,8 +3,9 @@
 - 👀 I am a DevOps Engineer 
 - 🌱 I’m currently learning ansible
 - 💞️ I love working in technologies like aws, kubernetes, docker, terraform, python
-- 📫 You can reach me on prakritimandal611@gmail.com
-[![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719)](https://substack.com/@prakritimandal) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prakriti-mandal-030239239/)
+- 📫 You can reach me on prakritimandal611@gmail.com </br>
+[![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719)](https://substack.com/@prakritimandal)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prakriti-mandal-030239239/)
 
 ### Socials
 
