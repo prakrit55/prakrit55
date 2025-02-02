@@ -4,12 +4,11 @@
 - 🌱 I’m currently learning ansible
 - 💞️ I love working in technologies like aws, kubernetes, docker, terraform, python
 - 📫 You can reach me on prakritimandal611@gmail.com </br>
-[![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719)](https://substack.com/@prakritimandal)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prakriti-mandal-030239239/)
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/prakrit55" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/prakriti-mandal-030239239/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+[![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719)](https://substack.com/@prakritimandal)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prakriti-mandal-030239239/)
 
 ### Blog Section
 <p align="left">
