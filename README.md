@@ -1,7 +1,7 @@
 ### Introduction
 - 👋 Hi, I’m Prakriti Mandal
 - 👀 I am a DevOps Engineer 
-- 🌱 I’m currently learning ansible
+- 🌱 I’m currently learning human behaviour
 - 💞️ I love working in technologies like aws, kubernetes, docker, terraform, python
 - 📫 You can reach me on prakritimandal611@gmail.com </br>
 
