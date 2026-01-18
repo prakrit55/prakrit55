@@ -11,11 +11,13 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prakriti-mandal-030239239/)
 
 ### Tech Stack
-<p align="center">
+
+[![My Skills]([https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3](https://skillicons.dev/icons?i=aws,gcp,azure,git,githubactions,gitlab,bitbucket,kubernetes,prometheus,grafana,go,py))](https://skillicons.dev)
+<!-- <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,gcp,azure,git,githubactions,gitlab,bitbucket,kubernetes,prometheus,grafana,go,py" />
   </a>
-</p>
+</p> -->
 
 
 
