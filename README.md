@@ -12,7 +12,7 @@
 
 ### Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,git,githubactions,gitlab,bitbucket,kubernetes,prometheus,grafana,go,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,git,githubactions,gitlab,bitbucket,kubernetes,prometheus,grafana,go,py,terraform)](https://skillicons.dev)
 <!-- <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,gcp,azure,git,githubactions,gitlab,bitbucket,kubernetes,prometheus,grafana,go,py" />
